@@ -20,8 +20,7 @@ This repository contains my Verilog HDL implementations of basic digital logic m
 
 ## 🔧 Tools Used
 
-- [EDA Playground](https://edaplayground.com/) – for writing & simulating code  
-- ModelSim (optional)  
+- [EDA Playground](https://edaplayground.com/) – for writing & simulating code   
 - Vivado (future plan for synthesis)
 
 ---
