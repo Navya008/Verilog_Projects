@@ -16,7 +16,7 @@ initial begin
 end
 initial begin
     $dumpfile("dump.vcd");
-    $dumpvars(0, tb_and_gate);
+    $dumpvars(0, tb_xor_gate);
 end
 
 endmodule
