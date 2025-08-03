@@ -48,4 +48,4 @@ Each module has a dedicated testbench to verify its output using:
 I’m a B.Tech ECE student exploring Verilog, Digital Logic, and VLSI design.  
 This repository reflects my hands-on journey into the world of RTL design using Verilog HDL.
 
-📬 [Connect with me on LinkedIn](Linkedin.com/in/navya-pradeep)  
+📬 [Connect with me on LinkedIn](https://www.linkedin.com/in/Linkedin.com/in/navya-pradeep)  
