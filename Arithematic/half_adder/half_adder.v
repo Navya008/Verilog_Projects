@@ -1,3 +1,4 @@
-module and_gate(input a, b,output y);
-assign y = a & b;
+module half_adder(input a,b, output sum,carry);
+assign sum = a^b ;
+assign carry = a & b ;
 endmodule
