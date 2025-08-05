@@ -1,4 +1,4 @@
-module priority_encoder_8to3(input [7:0]d,output reg[2:0]o);
+module priority_encoder_8to3(input [7:0]d,output reg[2:0]o);// Note: This design does NOT include a 'valid' output signal
   always @(*) begin
 o=3'bxxx;
     casex(d)
