@@ -1,6 +1,6 @@
 module encoder_8to3(input [7:0]d,output reg[2:0]o);
   always @(*) begin
-o=2'bxxx;
+o=3'bxxx;
     case(d)
       8'b00000001:o=3'b000;
       8'b00000010:o=3'b001;
